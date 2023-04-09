@@ -8,7 +8,7 @@ if( age <= 0){
 
 let conf = confirm("do you want to skip the welcoming message ?")
 
-if(conf == true){
+if(conf == false){
      if(gender == "male"){
 
           alert(`hello Mr ${username} `)
